@@ -1,0 +1,86 @@
+﻿1 for time 512 threads → Mean        Std.Dev.    Min         Median      Max
+real        0.227       0.019       0.200       0.234       0.264       
+user        0.129       0.015       0.096       0.133       0.160       
+sys         0.094       0.009       0.072       0.093       0.127
+
+
+1 for 1024 threads → Mean        Std.Dev.    Min         Median      Max
+real        0.231       0.021       0.199       0.236       0.305       
+user        0.130       0.019       0.093       0.131       0.193       
+sys         0.096       0.009       0.072       0.095       0.115
+
+
+1 for 128 threads → Mean        Std.Dev.    Min         Median      Max
+real        0.226       0.019       0.200       0.233       0.295       
+user        0.128       0.017       0.099       0.129       0.191       
+sys         0.094       0.010       0.072       0.093       0.121
+
+
+1 for 64 threads → Mean        Std.Dev.    Min         Median      Max
+real        0.236       0.029       0.201       0.235       0.315       
+user        0.136       0.024       0.097       0.133       0.194       
+sys         0.096       0.010       0.063       0.095       0.131
+
+
+2 for 32x32 threads→ Mean        Std.Dev.    Min         Median      Max
+real        0.234       0.024       0.202       0.238       0.329       
+user        0.136       0.021       0.097       0.136       0.234       
+sys         0.095       0.011       0.071       0.094       0.129
+
+
+2 for 16x16 threads→ Mean        Std.Dev.    Min         Median      Max
+real        0.230       0.020       0.202       0.236       0.326       
+user        0.132       0.017       0.103       0.133       0.214       
+sys         0.095       0.009       0.069       0.095       0.124
+
+
+2 for 8x8 threads→ Mean        Std.Dev.    Min         Median      Max
+real        0.243       0.033       0.200       0.237       0.322       
+user        0.139       0.030       0.093       0.128       0.212       
+sys         0.099       0.012       0.072       0.097       0.124
+
+
+1 for optimitzacio basica 512 th→ Mean        Std.Dev.    Min         Median      Max
+real        0.229       0.018       0.202       0.235       0.281       
+user        0.131       0.017       0.090       0.134       0.186       
+sys         0.095       0.009       0.075       0.094       0.118
+
+
+1 for optimitzacio basica 128 th→ Mean        Std.Dev.    Min         Median      Max
+real        0.258       0.031       0.220       0.248       0.337       
+user        0.150       0.026       0.108       0.143       0.211       
+sys         0.102       0.010       0.080       0.101       0.130
+
+
+
+
+1 for optimitzacio basica2 512 th → Mean        Std.Dev.    Min         Median      Max
+real        0.256       0.031       0.210       0.251       0.333       
+user        0.146       0.025       0.105       0.140       0.225       
+sys         0.104       0.012       0.085       0.101       0.139
+
+
+1 for optimitzacio basica2 128 th→ Mean        Std.Dev.    Min         Median      Max
+real        0.246       0.026       0.214       0.241       0.325       
+user        0.137       0.023       0.101       0.132       0.197       
+sys         0.104       0.010       0.085       0.103       0.137
+
+
+
+
+shared 64 th→ Mean        Std.Dev.    Min         Median      Max
+real        0.232       0.021       0.202       0.234       0.314       
+user        0.132       0.018       0.086       0.129       0.204       
+sys         0.095       0.009       0.069       0.095       0.119
+shared  256 th→ Mean        Std.Dev.    Min         Median      Max
+real        0.239       0.028       0.204       0.236       0.345       
+user        0.131       0.023       0.095       0.127       0.206       
+sys         0.101       0.010       0.076       0.102       0.128
+shared 512→ Mean        Std.Dev.    Min         Median      Max
+real        0.234       0.020       0.202       0.239       0.295       
+user        0.131       0.017       0.103       0.129       0.187       
+sys         0.097       0.009       0.076       0.097       0.123
+shared 1024→ Mean        Std.Dev.    Min         Median      Max
+real        0.253       0.034       0.207       0.241       0.343       
+user        0.143       0.030       0.102       0.137       0.236       
+sys         0.105       0.012       0.080       0.103       0.144
